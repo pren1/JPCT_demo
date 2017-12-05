@@ -11,7 +11,7 @@ A well documented face model render app on Android platform
 5. The light intensity and the background brightness can be changed
 6. People can create gif images using this app
 7. The program is well documented
-# Libraries Used
+## Libraries Used
 JPCT-ae for object loading
 http://www.jpct.net
 
