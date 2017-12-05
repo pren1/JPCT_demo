@@ -21,4 +21,4 @@ https://github.com/dragon66/animated-gif-writer
 - Simply the comments 
 ## Contact
 Please contact me if you meet any difficulties when comprehending this app via email:
-![image](https://github.com/pren1/JPCT_demo/raw/master/output.png)
+![image](https://github.com/pren1/JPCT_demo/raw/master/output2.png)
