@@ -17,6 +17,13 @@ http://www.jpct.net
 
 Standalone Animated GIF Writer for gif creation
 https://github.com/dragon66/animated-gif-writer
+## How to use
+1. Install Android Studio on your computer
+2. Download this project, and open it with Android Studio.
+3. Create a folder named MyCV on your phone. Its directory should be:
+
+Then copy the files under JPCT_Demo_Showcase_File to the MyCV folder. (From PC to your mobile phone)
+Note that these are just serialized model and texture map. You can also serialize your own model and put it together with your texture map into the MyCV folder on your phone if you are familiar with Android.
 ## Things to be done
 - Simply the comments 
 ## Contact
