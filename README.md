@@ -24,7 +24,7 @@ Standalone Animated GIF Writer for gif creation
 2. Download this project, and open it with Android Studio.
 3. Create a folder named My_JPCT on your phone. Its directory should be:
 
-/storage/emulated/0/My_JPCT
+   /storage/emulated/0/My_JPCT
 
 4. Then copy the files under JPCT_Demo_Showcase_File to the My_JPCT folder. (From PC to your mobile phone) You can find the JPCT_Demo_Showcase_File folder under the home directory of this project.
 
