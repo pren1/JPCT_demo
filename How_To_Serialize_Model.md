@@ -1,4 +1,4 @@
-# How to serilize model
+# How to serialize model
 This is a tutorial of the JPCT-AE Mesh Serializer:
 - https://sourceforge.net/p/meshserializer/home/Home/
 
