@@ -17,6 +17,7 @@ Put all your model files, such as the .obj file and .mtl file under the input fo
 ![image](https://github.com/pren1/JPCT_demo/raw/master/Image/6.png)
 ![image](https://github.com/pren1/JPCT_demo/raw/master/Image/7.png)
 ![image](https://github.com/pren1/JPCT_demo/raw/master/Image/8.png)
+
 Then right click on your project name, choose Properties:
 ![image](https://github.com/pren1/JPCT_demo/raw/master/Image/9.png)
 Then, in the open window, choose Mesh Serializer. And check the Enable serializer box, type the "input"
@@ -24,4 +25,5 @@ in the Source folder input box, and "output" in the Target folder.
 ![image](https://github.com/pren1/JPCT_demo/raw/master/Image/10.png)
 Click "Apply" on the right bottom of the window, then click "Apply and Close".
 Finally, you should see a file whose extension is .ser under the output folder:
+
 ![image](https://github.com/pren1/JPCT_demo/raw/master/Image/11.png)
