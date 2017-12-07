@@ -22,7 +22,7 @@ https://github.com/dragon66/animated-gif-writer
 2. Download this project, and open it with Android Studio.
 3. Create a folder named MyCV on your phone. Its absolute directory should be:
 
-4. Then copy the files under JPCT_Demo_Showcase_File to the MyCV folder. (From PC to your mobile phone)
+4. Then copy the files under JPCT_Demo_Showcase_File to the MyCV folder. (From PC to your mobile phone) You can find the JPCT_Demo_Showcase_File folder under the home directory of this project.
 
    Note that these are just serialized models and texture maps. You can also serialize your own model and put it together with your texture map into the MyCV folder on your phone.
 
