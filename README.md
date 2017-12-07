@@ -18,7 +18,7 @@ JPCT-ae for object loading
 - http://www.jpct.net
 
 Standalone Animated GIF Writer for gif creation
--https://github.com/dragon66/animated-gif-writer
+- https://github.com/dragon66/animated-gif-writer
 ## How to use
 1. Install Android Studio on your computer
 2. Download this project, and open it with Android Studio.
