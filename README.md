@@ -12,10 +12,10 @@ A well documented face model render app on Android platform
 6. People can create gif images using this app
 7. The program is well documented
 ## Demo Vedio
--https://youtu.be/hi0BVjvR5Tg
+- https://youtu.be/hi0BVjvR5Tg
 ## Libraries Used
 JPCT-ae for object loading
--http://www.jpct.net
+- http://www.jpct.net
 
 Standalone Animated GIF Writer for gif creation
 -https://github.com/dragon66/animated-gif-writer
