@@ -28,7 +28,7 @@ Standalone Animated GIF Writer for gif creation
 
 4. Then copy the files under JPCT_Demo_Showcase_File to the My_JPCT folder. (From PC to your mobile phone) You can find the JPCT_Demo_Showcase_File folder under the home directory of this project.
 
-   Note that these are just serialized models and texture maps. You can also serialize your own model and put it together with your texture map into the MyCV folder on your phone.
+   Note that these are just serialized models and texture maps. You can also serialize your own model and put it together with your texture map into the My_JPCT folder on your phone.
    
    Please also be careful if you are going to use your own model, you should load your model use software such as blender first and see if its center is at the corrdinate origin. Otherwise, you may not see your model on the phone screen even if you successfully load it.
    To serialize your model, please refer to this:
