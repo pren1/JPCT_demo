@@ -30,9 +30,7 @@ public class Easy_Sensor implements SensorEventListener {
     private Sensor my_game_vector; // TYPE_GAME_ROTATION_VECTOR
     float[] mGame_Rotation; // Record the result returned by the TYPE_GAME_ROTATION_VECTOR sensor
     float[] mGravity; // Record result returned by the TYPE_ACCELEROMETER sensor
-    public int pitch_angle;
-    public int roll_angle;
-    private float[] mRotationMatrix = new float[9]; // accelerometer and magnetometer based rotation matrix
+
     float azimuth = 0; // the azimuth angle
     //ToDo: change the comments here.
     float vertical_pitch = 0; // The pitch angle used when the phone is verticle?
